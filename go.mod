@@ -7,3 +7,19 @@ require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.1.2-0.20231108143325-448ed0e3bd2b
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240509231741-c3d23d929bc6
 )
+
+module github.com/liyi2026-ibcas/fber.github.io
+   
+   go 1.20
+   
+   require (
+       github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.8-0.20241012174104-661cadc17327
+       github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.1.2-0.20231108143325-448ed0e3bd2b
+       github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240509231741-c3d23d929bc6
+   )
+   
+   replace github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 => ./hugo-blox-builder/modules/blox-bootstrap
+   
+   replace github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms => ./hugo-blox-builder/modules/blox-plugin-decap-cms
+   
+   replace github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify => ./hugo-blox-builder/modules/blox-plugin-netlify
