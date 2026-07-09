@@ -1,28 +1,28 @@
 ---
 # Display name
-title: 刘晓娟
+title: Xiaojuan Liu
 
 # Full name (for SEO)
-first_name: 刘
-last_name: 晓娟
+first_name: Liu
+last_name: Xiaojuan
 
 # Username (this should match the folder name)
 authors:
-  - 刘晓娟
+  - Xiaojuan Liu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 研究员
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: 中国科学院植物研究所
+  - name: Institute of Botany, Chinese Academy of Sciences
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 刘晓娟，研究员，博士生导师。2006年获北京林业大学学士学位，2012年获中国科学院植物研究所博士学位。2013至2016年先后在瑞士苏黎世大学和美国马里兰大学进行博士后和合作研究。2019年入选中国科学院青年创新促进会，2022年获国家基金委优秀青年科学基金资助，2023年入选中国科学院青促会优秀会员，2025年获国家基金委青年科学基金A类资助。主要从事生物多样性与生态系统功能及修复研究，在Nature Ecology & Evolution、PNAS、National Science Review、Nature Reviews Biodiversity等期刊发表论文80余篇。曾获中国科学院青年科学家国际合作伙伴奖、梁希青年论文一等奖等荣誉。担任浙江钱江源森林生物多样性国家野外科学观测研究站执行站长，北京生物多样性科学研究会秘书长，Journal of Plant Ecology副主编，Journal of Ecology、生物多样性、植物生态学报等期刊编委。
+bio: Xiaojuan Liu is a Professor and Ph.D. supervisor specializing in biodiversity, ecosystem functioning, and ecological restoration. She received her B.Sc. degree from Beijing Forestry University in 2006 and her Ph.D. degree from the Institute of Botany, Chinese Academy of Sciences in 2012. From 2013 to 2016, she conducted postdoctoral research and collaborative studies at the University of Zurich, Switzerland, and the University of Maryland, USA. Dr. Liu was selected as a member of the Youth Innovation Promotion Association of the Chinese Academy of Sciences (CAS) in 2019. She received the National Science Fund for Excellent Young Scholars from the National Natural Science Foundation of China (NSFC) in 2022, was recognized as an Outstanding Member of the CAS Youth Innovation Promotion Association in 2023, and received support from the National Natural Science Foundation of China’s Young Scientists Fund (Class A) in 2025. Her research focuses on biodiversity, ecosystem functioning, and ecological restoration. She has published more than 80 research articles in leading international journals, including Nature Ecology & Evolution, Proceedings of the National Academy of Sciences (PNAS), National Science Review, and Nature Reviews Biodiversity. She has received several prestigious awards, including the CAS Young Scientist International Collaboration Partner Award and the First Prize of the Liang Xi Young Scientist Paper Award. Dr. Liu currently serves as the Executive Director of the Qianjiangyuan National Forest Biodiversity Observation and Research Station, Zhejiang Province. She is also the Secretary-General of the Beijing Society for Biodiversity Science, Associate Editor of Journal of Plant Ecology, and an editorial board member of Journal of Ecology, Biodiversity Science, and Journal of Plant Ecology.
 
 education:
   courses:
@@ -32,7 +32,7 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
+    - course: BSc in Beijing Forestry University
       institution: Massachusetts Institute of Technology
       year: 2008
 
