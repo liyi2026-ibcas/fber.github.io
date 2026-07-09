@@ -1,6 +1,6 @@
 ---
 user_groups:
-  - Researchers
+  - Principal Investigators
   
 # Display name
 title: Xiaojuan Liu
