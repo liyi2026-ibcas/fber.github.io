@@ -1,4 +1,7 @@
 ---
+user_groups:
+  - Researchers
+  
 # Display name
 title: Xiaojuan Liu
 
